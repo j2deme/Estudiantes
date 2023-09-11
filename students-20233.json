@@ -26,5 +26,12 @@
     "dob": "2001-02-07",
     "gender": "male",
     "email": "20690087@tecvalles.mx"
+  },
+  {
+    "name": "Maribel",
+    "last_name": "Martinez Rubio",
+    "dob": "4813800363",
+    "gender": "female",
+    "email": "20690032@tecvalles.mx"
   }
 ]
