@@ -40,5 +40,12 @@
     "dob": "4813800363",
     "gender": "female",
     "email": "20690032@tecvalles.mx"
+  },
+  {
+    "name": "Daniel",
+    "last_name": "Cervantes Villanueva",
+    "dob": "2000-11-28",
+    "gender": "male",
+    "email": "20690146@tecvalles.mx"
   }
 ]
