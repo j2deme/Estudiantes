@@ -5,7 +5,14 @@
     "dob": "1987-08-21",
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
-  }
+  },
+  {
+    "name": "Amado",
+    "last_name": "Ramírez Hernández",
+    "dob": "2002-07-02",
+    "gender": "male",
+    "email": "20690373@tecvalles.mx"
+  },
   {
     "name": "Israel",
     "last_name": "Acuña Vega",
