@@ -6,13 +6,6 @@
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
   },
-   {
-    "name": "Karen Lizbeth",
-    "last_name": "Castillo Cruz",
-    "dob": "2001-09-23",
-    "gender": "male",
-    "email": "19690294@tecvalles.mx"
-  },
     {
     "name": "Maria Belen",
     "last_name": "Chavez Mar",
@@ -40,5 +33,12 @@
     "dob": "4813800363",
     "gender": "female",
     "email": "20690032@tecvalles.mx"
+  },
+    {
+    "name": "Xally",
+    "last_name": "Martínez Trejo",
+    "dob": "2002-10-18",
+    "gender": "female",
+    "email": "20690080@tecvalles.mx"
   }
 ]
