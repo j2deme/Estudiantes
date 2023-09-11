@@ -6,6 +6,13 @@
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
   },
+  {
+    "name": "Adrián",
+    "last_name": "Martínez Lara",
+    "dob": "2002-12-23",
+    "gender": "male",
+    "email": "20690446@tecvalles.mx"
+  },
     {
     "name": "Maria Belen",
     "last_name": "Chavez Mar",
@@ -33,5 +40,19 @@
     "dob": "2001-10-29",
     "gender": "female",
     "email": "20690032@tecvalles.mx"
+  },
+  {
+    "name": "Daniel",
+    "last_name": "Cervantes Villanueva",
+    "dob": "2000-11-28",
+    "gender": "male",
+    "email": "20690146@tecvalles.mx"
+  },
+  {
+    "name": "Cynthia",
+    "last_name": "Rubio Martínez",
+    "dob": "2002-03-05",
+    "gender": "female",
+    "email": "20690026@tecvalles.mx"
   }
 ]
