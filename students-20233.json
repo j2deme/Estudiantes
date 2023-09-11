@@ -5,9 +5,56 @@
     "dob": "1987-08-21",
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
-  }
-]
-[
+  },
+    {
+    "name": "Miguel Angel",
+    "last_name": "Rodriguez Coronado",
+    "dob": "2001-12-27",
+    "gender": "male",
+    "email": "20690128@tecvalles.mx"
+  },
+   {
+    "name": "Karen Lizbeth",
+    "last_name": "Castillo Cruz",
+    "dob": "2001-09-23",
+    "gender": "male",
+    "email": "19690294@tecvalles.mx"
+  },
+    {
+    "name": "Maria Belen",
+    "last_name": "Chavez Mar",
+    "dob": "2002-11-24",
+    "gender": "female",
+    "email": "20690449@tecvalles.mx"
+  },
+  {
+    "name": "Amado",
+    "last_name": "Ramírez Hernández",
+    "dob": "2002-07-02",
+    "gender": "male",
+    "email": "20690373@tecvalles.mx"
+  },
+  {
+    "name": "Israel",
+    "last_name": "Acuña Vega",
+    "dob": "2001-02-07",
+    "gender": "male",
+    "email": "20690087@tecvalles.mx"
+  },
+  {
+    "name": "Maribel",
+    "last_name": "Martinez Rubio",
+    "dob": "4813800363",
+    "gender": "female",
+    "email": "20690032@tecvalles.mx"
+  },
+  {
+    "name": "Daniel",
+    "last_name": "Cervantes Villanueva",
+    "dob": "2000-11-28",
+    "gender": "male",
+    "email": "20690146@tecvalles.mx"
+  },
   {
     "name": "Cynthia",
     "last_name": "Rubio Martínez",
