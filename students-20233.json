@@ -62,4 +62,11 @@
     "gender": "female",
     "email": "20690026@tecvalles.mx"
   }
+  {
+    "name": "eliseo",
+    "last_name": "martinez",
+    "dob": "2002-07-02",
+    "gender": "male",
+    "email": "19690105@tecvalles.mx"
+  },
 ]
