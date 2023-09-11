@@ -54,5 +54,12 @@
     "dob": "2002-03-05",
     "gender": "female",
     "email": "20690026@tecvalles.mx"
+  },
+  {
+    "name": "Alejandro",
+    "last_name": "Olvera Delgado",
+    "dob": "1998-06-19",
+    "gender": "male",
+    "email": "19690395@tecvalles.mx"
   }
 ]
