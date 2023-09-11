@@ -14,20 +14,6 @@
     "email": "20690446@tecvalles.mx"
   },
     {
-    "name": "Miguel Angel",
-    "last_name": "Rodriguez Coronado",
-    "dob": "2001-12-27",
-    "gender": "male",
-    "email": "20690128@tecvalles.mx"
-  },
-   {
-    "name": "Karen Lizbeth",
-    "last_name": "Castillo Cruz",
-    "dob": "2001-09-23",
-    "gender": "male",
-    "email": "19690294@tecvalles.mx"
-  },
-    {
     "name": "Maria Belen",
     "last_name": "Chavez Mar",
     "dob": "2002-11-24",
@@ -51,7 +37,7 @@
   {
     "name": "Maribel",
     "last_name": "Martinez Rubio",
-    "dob": "4813800363",
+    "dob": "2001-10-29",
     "gender": "female",
     "email": "20690032@tecvalles.mx"
   },
