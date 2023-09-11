@@ -54,5 +54,12 @@
     "dob": "2000-11-28",
     "gender": "male",
     "email": "20690146@tecvalles.mx"
+  },
+  {
+    "name": "Cynthia",
+    "last_name": "Rubio Martínez",
+    "dob": "2002-03-05",
+    "gender": "female",
+    "email": "20690026@tecvalles.mx"
   }
 ]
