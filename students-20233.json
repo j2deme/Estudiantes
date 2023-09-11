@@ -6,13 +6,6 @@
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
   },
-    {
-    "name": "Miguel Angel",
-    "last_name": "Rodriguez Coronado",
-    "dob": "2001-12-27",
-    "gender": "male",
-    "email": "20690128@tecvalles.mx"
-  },
    {
     "name": "Karen Lizbeth",
     "last_name": "Castillo Cruz",
@@ -49,10 +42,10 @@
     "email": "20690032@tecvalles.mx"
   },
   {
-    "name": "Daniel",
-    "last_name": "Cervantes Villanueva",
-    "dob": "2000-11-28",
-    "gender": "male",
-    "email": "20690146@tecvalles.mx"
+    "name": "Nelida",
+    "last_name": "Carrillo Zamora",
+    "dob": "2001-12-06",
+    "gender": "female",
+    "email": "20690067@tecvalles.mx"
   }
 ]
