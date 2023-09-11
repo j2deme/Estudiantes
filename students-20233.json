@@ -12,5 +12,12 @@
     "dob": "2002-07-02",
     "gender": "male",
     "email": "20690373@tecvalles.mx"
+  },
+  {
+    "name": "Israel",
+    "last_name": "Acuña Vega",
+    "dob": "2001-02-07",
+    "gender": "male",
+    "email": "20690087@tecvalles.mx"
   }
 ]
