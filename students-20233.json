@@ -128,5 +128,12 @@
     "dob": "2002-04-26",
     "gender": "male",
     "email": "20690137@tecvalles.mx"
+  },
+  {
+    "name": "Gustavo",
+    "last_name": "López Lara",
+    "dob": "2002-03-19",
+    "gender": "male",
+    "email": "20690105@tecvalles.mx"
   }
 ]
