@@ -12,5 +12,150 @@
     "dob": "2001-08-11",
     "gender": "female",
     "email": "20690457@tecvalles.mx"
+  },
+  {
+    "name": "Luis Javier",
+    "last_name": "Martinez Martinez",
+    "dob": "1999-08-22",
+    "gender": "male",
+    "email": "21690001@tecvalles.mx"
+  },
+  {
+    "name": "Cesar Enrique",
+    "last_name": "Avila Avalos",
+    "dob": "2002-09-05",
+    "gender": "male",
+    "email": "20690125@tecvalles.mx"
+  },
+  {
+    "name": "Ernesto",
+    "last_name": "Rodríguez Rocha",
+    "dob": "2002-07-25",
+    "gender": "male",
+    "email": "20690047@tecvalles.mx"
+  },
+  {
+    "name": "Karen Lizbeth",
+    "last_name": "Castillo Cruz",
+    "dob": "2001-09-23"
+  },
+  {
+    "name": "Adriana",
+    "last_name": "Aguilar Martínez",
+    "dob": "2002,07,09",
+    "gender": "female",
+    "email": "20690024@tecvalles.mx"
+  },
+  {
+    "name": "Adrián",
+    "last_name": "Martínez Lara",
+    "dob": "2002-12-23",
+    "gender": "male",
+    "email": "20690446@tecvalles.mx"
+  },
+  {
+    "name": "Maria Belen",
+    "last_name": "Chavez Mar",
+    "dob": "2002-11-24",
+    "gender": "female",
+    "email": "20690449@tecvalles.mx"
+  },
+  {
+    "name": "Amado",
+    "last_name": "Ramírez Hernández",
+    "dob": "2002-07-02",
+    "gender": "male",
+    "email": "20690373@tecvalles.mx"
+  },
+  {
+    "name": "Israel",
+    "last_name": "Acuña Vega",
+    "dob": "2001-02-07",
+    "gender": "male",
+    "email": "20690087@tecvalles.mx"
+  },
+  {
+    "name": "Jose Francisco",
+    "last_name": "Villaseñor Ramirez",
+    "dob": "2002-03-31",
+    "gender": "male",
+    "email": "20690055@tecvalles.mx"
+  },
+  {
+    "name": "Maribel",
+    "last_name": "Martinez Rubio",
+    "dob": "2001-10-29",
+    "gender": "female",
+    "email": "20690032@tecvalles.mx"
+  },
+    {
+    "name": "Xally",
+    "last_name": "Martínez Trejo",
+    "dob": "2002-10-18",
+    "gender": "female",
+    "email": "20690080@tecvalles.mx"
+    },
+  {
+    "name": "Nelida",
+    "last_name": "Carrillo Zamora",
+    "dob": "2001-12-06",
+    "gender": "female",
+    "email": "20690067@tecvalles.mx"
+  },
+  {
+    "name": "Daniel",
+    "last_name": "Cervantes Villanueva",
+    "dob": "2000-11-28",
+    "gender": "male",
+    "email": "20690137@tecvalles.mx"
+  },
+  {
+    "name": "Ulises Miguel",
+    "last_name": "Olvera López",
+    "dob": "2001-09-30",
+    "gender": "male",
+    "email": "20690035@tecvalles.mx"
+  },
+    {
+    "name": "Emmanuel",
+    "last_name": "Santos Briseño",
+    "dob": "2001-12-29",
+    "gender": "male",
+    "email": "20690447@tecvalles.mx"
+  },
+  {
+    "name": "Cynthia",
+    "last_name": "Rubio Martínez",
+    "dob": "2002-03-05",
+    "gender": "female",
+    "email": "20690026@tecvalles.mx"
+  },
+  {
+    "name": "Alejandro",
+    "last_name": "Olvera Delgado",
+    "dob": "1998-06-19",
+    "gender": "male",
+    "email": "19690395@tecvalles.mx"
+  },
+  {
+    "name": "Alexis",
+    "last name": "Ponce Gonzalez",
+    "dob": "2002-04-26",
+    "gender": "male",
+    "email": "20690137@tecvalles.mx"
+  },
+  {
+    "name": "Gustavo",
+    "last_name": "López Lara",
+    "dob": "2002-03-19",
+    "gender": "male",
+    "email": "20690105@tecvalles.mx"
+  },
+  {
+    "name": "eliseo",
+    "last_name": "martinez",
+    "dob": "2002-07-02",
+    "gender": "male",
+    "email": "19690105@tecvalles.mx"
   }
 ]
