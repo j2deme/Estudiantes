@@ -9,7 +9,7 @@
   {
     "name": "Karen Lizbeth",
     "last_name": "Castillo Cruz",
-    "dob": "2001-09-23",
+    "dob": "2001-09-23"
   },
   {
     "name": "Adriana",
@@ -25,7 +25,7 @@
     "gender": "male",
     "email": "20690446@tecvalles.mx"
   },
-    {
+  {
     "name": "Maria Belen",
     "last_name": "Chavez Mar",
     "dob": "2002-11-24",
@@ -88,3 +88,4 @@
     "gender": "male",
     "email": "19690395@tecvalles.mx"
   }
+]
