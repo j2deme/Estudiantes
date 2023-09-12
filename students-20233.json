@@ -49,6 +49,13 @@
     "email": "20690146@tecvalles.mx"
   },
   {
+    "name": "Ulises Miguel",
+    "last_name": "Olvera López",
+    "dob": "2001-09-30",
+    "gender": "male",
+    "email": "20690035@tecvalles.mx"
+  },
+  {
     "name": "Cynthia",
     "last_name": "Rubio Martínez",
     "dob": "2002-03-05",
@@ -62,4 +69,3 @@
     "gender": "male",
     "email": "19690395@tecvalles.mx"
   }
-]
