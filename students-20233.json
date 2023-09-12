@@ -14,6 +14,13 @@
     "email": "20690041@tecvalles.mx"
   },
   {
+    "name": "Jacqueline Montserrat",
+    "last_name": "Gaspar González",
+    "dob": "2002-10-26",
+    "gender": "female",
+    "email": "20690369@tecvalles.mx"
+  },
+  {
     "name": "Diana Laura",
     "last_name": "Trujillo Cuervo",
     "dob": "2002-10-12",
@@ -176,7 +183,7 @@
   },
   {
     "name": "Esteban",
-    "last_name": "valladares",
+    "last_name": "Valladares Richard",
     "dob": "1999-09-14",
     "gender": "male",
     "email": "19690148@tecvalles.mx"
