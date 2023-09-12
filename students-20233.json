@@ -72,7 +72,7 @@
     "last_name": "Cervantes Villanueva",
     "dob": "2000-11-28",
     "gender": "male",
-    "email": "20690146@tecvalles.mx"
+    "email": "20690137@tecvalles.mx"
   },
   {
     "name": "Ulises Miguel",
@@ -94,5 +94,12 @@
     "dob": "1998-06-19",
     "gender": "male",
     "email": "19690395@tecvalles.mx"
+  },
+  {
+    "name": "Alexis",
+    "last name": "Ponce Gonzalez",
+    "dob": "2002-04-26",
+    "gender": "male",
+    "email": "20690137@tecvalles.mx"
   }
 ]
