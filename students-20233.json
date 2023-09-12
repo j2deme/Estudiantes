@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+  {
+    "name": "Itzel",
+    "last_name": "Larraga Padilla",
+    "dob": "2002-09-16",
+    "gender": "female",
+    "email": "20690120@tecvalles.mx"
   }
 ]
