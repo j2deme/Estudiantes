@@ -194,5 +194,12 @@
     "dob": "2002-11-05",
     "gender": "male",
     "email": "20690148@tecvalles.mx"
+  },
+  {
+    "name": "Israel",
+    "last_name": "Méndez González",
+    "dob": "2002-03-08",
+    "gender": "male",
+    "email": "20690089@tecvalles.mx"
   }
 ]
