@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+  {
+    "name": "Bryan",
+    "last_name": "Resendiz Rodriguez",
+    "dob": "2002-09-27",
+    "gender": "male",
+    "email": "20690143@tecvalles.mx"
   }
 ]
