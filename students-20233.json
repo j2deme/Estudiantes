@@ -84,6 +84,13 @@
     "email": "20690449@tecvalles.mx"
   },
   {
+    "name": "Salvador",
+    "last_name": "Sanchez Vargas",
+    "dob": "2001-08-25",
+    "gender": "male",
+    "email": "19260956@tecvalles.mx"
+  },
+  {
     "name": "Amado",
     "last_name": "Ramírez Hernández",
     "dob": "2002-07-02",
@@ -194,12 +201,5 @@
     "dob": "2002-11-05",
     "gender": "male",
     "email": "20690148@tecvalles.mx"
-  },
-  {
-    "name": "Israel",
-    "last_name": "Méndez González",
-    "dob": "2002-03-08",
-    "gender": "male",
-    "email": "20690089@tecvalles.mx"
   }
 ]
