@@ -6,6 +6,13 @@
     "gender": "male",
     "email": "jesus.delgado@tecvalles.mx"
   },
+   {
+    "name": "Karina Esther",
+    "last_name": "Castillo Martínez",
+    "dob": "2001-08-11",
+    "gender": "female",
+    "email": "20690457@tecvalles.mx"
+  },
   {
     "name": "Luis Javier",
     "last_name": "Martinez Martinez",
@@ -74,6 +81,7 @@
     "gender": "male",
     "email": "20690055@tecvalles.mx"
   },
+  {
     "name": "Maribel",
     "last_name": "Martinez Rubio",
     "dob": "2001-10-29",
@@ -142,12 +150,12 @@
     "dob": "2002-03-19",
     "gender": "male",
     "email": "20690105@tecvalles.mx"
-  }
+  },
   {
     "name": "eliseo",
     "last_name": "martinez",
     "dob": "2002-07-02",
     "gender": "male",
     "email": "19690105@tecvalles.mx"
-  },
+  }
 ]
