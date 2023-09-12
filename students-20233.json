@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+    {
+    "name": "Fatima",
+    "last_name": "Coronado Martinez",
+    "dob": "2001-02-20",
+    "gender": "female",
+    "email": "19690338@tecvalles.mx"
   }
 ]
