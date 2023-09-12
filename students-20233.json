@@ -188,18 +188,18 @@
     "gender": "male",
     "email": "19690148@tecvalles.mx"
   },
+    {
+    "name": "Monserrath",
+    "last_name": "Guerrero Lerma",
+    "dob": "2001-10-11",
+    "gender": "female",
+    "email": "20690131@tecvalles.mx"
+  },
   {
     "name": "Arturo",
     "last_name": "Cortez Altamirano",
     "dob": "2002-11-05",
     "gender": "male",
     "email": "20690148@tecvalles.mx"
-  },
-  {
-    "name": "Israel",
-    "last_name": "Méndez González",
-    "dob": "2002-03-08",
-    "gender": "male",
-    "email": "20690089@tecvalles.mx"
   }
 ]
