@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
-  }
+  },
+  {
+    "name": "Marco Antonio",
+    "last_name": "Zarazua Marinez",
+    "dob": "2002-03-09",
+    "gender": "male",
+    "email": "20690028@tecvalles.mx"
+  },
 ]
