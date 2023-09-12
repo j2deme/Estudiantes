@@ -180,5 +180,12 @@
     "dob": "1999-09-14",
     "gender": "male",
     "email": "19690148@tecvalles.mx"
+  },
+  {
+    "name": "Arturo",
+    "last_name": "Cortez Altamirano",
+    "dob": "2002-11-05",
+    "gender": "male",
+    "email": "20690148@tecvalles.mx"
   }
 ]
