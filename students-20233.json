@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+   {
+    "name": "Daniel",
+    "last_name": "simon rivera",
+    "dob": "2002-02-28",
+    "gender": "male",
+    "email": "20690058@tecvalles.mx"
   }
 ]
