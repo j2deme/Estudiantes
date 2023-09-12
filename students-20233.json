@@ -173,5 +173,12 @@
     "dob": "2002-07-02",
     "gender": "male",
     "email": "19690105@tecvalles.mx"
+  },
+  {
+    "name": "Esteban",
+    "last_name": "valladares",
+    "dob": "1999-09-14",
+    "gender": "male",
+    "email": "19690148@tecvalles.mx"
   }
 ]
