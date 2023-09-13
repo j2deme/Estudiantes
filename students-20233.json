@@ -196,6 +196,13 @@
     "email": "20690148@tecvalles.mx"
   },
   {
+    "name": "Yessica",
+    "last_name": "Peréz Castro",
+    "dob": "2000-11-24",
+    "gender": "male",
+    "email": "19690070@tecvalles.mx"
+  },
+  {
     "name": "Israel",
     "last_name": "Méndez González",
     "dob": "2002-03-08",
@@ -208,5 +215,26 @@
     "dob": "2000-12-23",
     "gender": "female",
     "email": "19690428@tecvalles.mx"
+  },
+  {
+    "name": "Fatima",
+    "last_name": "Coronado Martinez",
+    "dob": "2001-02-20",
+    "gender": "female",
+    "email": "19690338@tecvalles.mx"
+  },
+  {
+    "name": "Jesus Mariano",
+    "last_name": "Maure Ruiz",
+    "dob": "2001-11-24",
+    "gender": "male",
+    "email": "20690124@tecvalles.mx"
+  },
+  {
+    "name": "Raymundo",
+    "last_name": "Torres Velazquez",
+    "dob": "2002-04-25",
+    "gender": "male",
+    "email": "20690130@tecvalles.mx"
   }
 ]
