@@ -28,6 +28,13 @@
     "email": "20690514@tecvalles.mx"
   },
   {
+    "name": "Wendy Gudalupe",
+    "last_name": "Hernandez Chavez",
+    "dob": "2002-06-16",
+    "gender": "female",
+    "email": "20690110@tecvalles.mx"
+  },
+  {
     "name": "Karina Esther",
     "last_name": "Castillo Martínez",
     "dob": "2001-08-11",
@@ -201,5 +208,82 @@
     "dob": "2002-11-05",
     "gender": "male",
     "email": "20690148@tecvalles.mx"
+  },
+  {
+    "name": "Hector",
+    "last_name": "Manuel Aldana",
+    "dob": "2002-12-05",
+    "gender": "male",
+    "email": "20690558@tecvalles.mx"
+  },
+  {
+    "name": "Yessica",
+    "last_name": "Peréz Castro",
+    "dob": "2000-11-24",
+    "gender": "male",
+    "email": "19690070@tecvalles.mx"
+  },
+  {
+    "name": "Israel",
+    "last_name": "Méndez González",
+    "dob": "2002-03-08",
+    "gender": "male",
+    "email": "20690089@tecvalles.mx"
+  },
+  {
+    "name": "Itzel",
+    "last_name": "Larraga Padilla",
+    "dob": "2002-09-16",
+    "gender": "female",
+    "email": "20690120@tecvalles.mx"
+  },
+  {
+    "name": "Hector De Jesus",
+    "last_name": "Vega Reyes",
+    "dob": "2002-11-22",
+    "gender": "male",
+    "email": "20690138@tecvalles.mx"
+  },
+  {
+    "name": "Marco Antonio",
+    "last_name": "Zarazua Marinez",
+    "dob": "2002-03-09",
+    "gender": "male",
+    "email": "20690028@tecvalles.mx"
+  },
+  {
+    "name": "Daniel",
+    "last_name": "simon rivera",
+    "dob": "2002-02-28",
+    "gender": "male",
+    "email": "20690058@tecvalles.mx"
+  },
+  {
+    "name": "Graciela",
+    "last_name": "Sánchez Fajardo",
+    "dob": "2000-12-23",
+    "gender": "female",
+    "email": "19690428@tecvalles.mx"
+  },
+  {
+    "name": "Fatima",
+    "last_name": "Coronado Martinez",
+    "dob": "2001-02-20",
+    "gender": "female",
+    "email": "19690338@tecvalles.mx"
+  },
+  {
+    "name": "Jesus Mariano",
+    "last_name": "Maure Ruiz",
+    "dob": "2001-11-24",
+    "gender": "male",
+    "email": "20690124@tecvalles.mx"
+  },
+  {
+    "name": "Raymundo",
+    "last_name": "Torres Velazquez",
+    "dob": "2002-04-25",
+    "gender": "male",
+    "email": "20690130@tecvalles.mx"
   }
 ]
