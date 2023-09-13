@@ -195,7 +195,7 @@
     "gender": "male",
     "email": "20690148@tecvalles.mx"
   },
-    {
+  {
     "name": "Yessica",
     "last_name": "Peréz Castro",
     "dob": "2000-11-24",
@@ -208,6 +208,13 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+  {
+    "name": "Graciela",
+    "last_name": "Sánchez Fajardo",
+    "dob": "2000-12-23",
+    "gender": "female",
+    "email": "19690428@tecvalles.mx"
   },
   {
     "name": "Fatima",
